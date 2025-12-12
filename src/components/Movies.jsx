@@ -1,5 +1,5 @@
 import React from 'react'
-import MovieCard from './MovieCard.'
+import MovieCard from './MovieCard'
 import { useEffect } from 'react'
 import axios from 'axios'
 import { useState } from 'react'
