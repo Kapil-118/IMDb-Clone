@@ -2,7 +2,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import Banner from "./components/Banner";
-
 import Movies from "./components/Movies";
 import Navbar from "./components/Navbar";
 import WatchList from "./components/WatchList";
